@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "851655410463",
+    "project_id": "busanweb",
+    "storage_bucket": "busanweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851655410463:android:d2495717693db04dc1a62a",
+        "android_client_info": {
+          "package_name": "com.busanwebsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851655410463-4bq1d7ue86reloh59hb0b5o9au209pn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4HaQrDqGoa4ghQRCopbZxIYORF97n5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851655410463-4bq1d7ue86reloh59hb0b5o9au209pn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851655410463-tgh35lb8pg0eqdqgd6q3ppbgiei91jp6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BusanWebSite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
